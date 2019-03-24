@@ -6,7 +6,6 @@ end
 def using_sort(element)
 array.sort? (array)
 
-
 end
 
 def using_reverse(array)
