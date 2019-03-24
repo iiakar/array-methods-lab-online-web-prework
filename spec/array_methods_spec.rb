@@ -9,7 +9,8 @@ describe "#using_include" do
     expect(using_include(array, element2)).to eq(false)
   end
 
-
+def using_include (array, element)
+   array.include? (element)
 
 end
 
